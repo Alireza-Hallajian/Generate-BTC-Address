@@ -1,0 +1,14 @@
+{
+  "name": "generate_btc_address",
+  "version": "1.0.0",
+  "description": "Generate BTC_Address from Publick-Key",
+  "main": "Generate BTC_Address.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alireza.HN",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^4.0.1"
+  }
+}
